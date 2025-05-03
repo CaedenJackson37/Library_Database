@@ -5,6 +5,9 @@ This project was an assignment for my Intro to Data Analytics class, I was to cr
 <br />
 
 
+<img src="LibraryDatabase.png" alt="SQL Script Example">
+
+
 <h2>Languages and Utilities Used</h2>
 
 - <b>SQL</b> 
